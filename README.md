@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lara5595&label=Profile%20views&color=0e75b6&style=flat" alt="lara5595" /> </p>
 
-- 🔭 I’m currently working on **StudyVerse**
+- 🔭 I’m currently working on ** Learning React**
 
-- 🌱 I’m currently learning **SpringBoot, Java**
+- 🌱 I’m currently learning **SpringBoot, Java, React**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java**
 
